@@ -225,6 +225,3 @@ Love our work and community? <!--[Become a backer](https://opencollective.com/te
 [Betapage](https://betapage.co/startup/tellform)
 
 [Opensource.com](http://opensource.com/article/17/2/tools-online-surveys-polls)
-
-Now, fill free to use it!
-
